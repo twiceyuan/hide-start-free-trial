@@ -1,0 +1,15 @@
+<idea-plugin>
+    <id>com.twiceyuan.hidefreetrial</id>
+    <name>Hide Start Free Trial</name>
+    <vendor email="user@example.com" url="https://github.com/twiceyuan">TwiceYuan</vendor>
+
+    <description><![CDATA[
+    Hides the "Start Free Trial" button in the toolbar.
+    ]]></description>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <postStartupActivity implementation="com.twiceyuan.hidefreetrial.HideTrialButtonActivity"/>
+    </extensions>
+</idea-plugin>
