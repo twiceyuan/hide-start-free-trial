@@ -1,5 +1,7 @@
 # Hide "Start Free Trial" Plugin
 
+<img width="225" height="101" alt="image" src="https://github.com/user-attachments/assets/7de00919-539e-46ee-bde4-d254c1bc6f0e" />
+
 一个简单的 JetBrains IDE 插件，用于隐藏工具栏上无法通过常规设置移除的 "Start Free Trial" (开始免费试用) 按钮。
 
 [English](#english) | [中文](#中文)
