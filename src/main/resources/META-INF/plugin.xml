@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.twiceyuan.hidefreetrial</id>
     <name>Hide Start Free Trial</name>
-    <vendor email="user@example.com" url="https://github.com/twiceyuan">TwiceYuan</vendor>
+    <vendor email="twiceyuan@gmail.com" url="https://github.com/twiceyuan">twiceYuan</vendor>
 
     <description><![CDATA[
     Hides the "Start Free Trial" button in the toolbar.

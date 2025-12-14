@@ -4,8 +4,8 @@ plugins {
     id("org.jetbrains.intellij") version "1.17.2"
 }
 
-group = "com.twiceyuan"
-version = "1.0-SNAPSHOT"
+group = "io.github.twiceyuan"
+version = "1.0.1"
 
 repositories {
     mavenCentral()
