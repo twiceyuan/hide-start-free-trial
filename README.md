@@ -35,7 +35,7 @@ cd hide-start-free-trial
 
 ### 支持版本
 - 支持 IntelliJ Platform 231 (2023.1) 及更高版本。
-- 已在 PyCharm 2025.2 EAP (Build 252.x) 上测试通过。
+- 兼容 PyCharm 2026.1.x (Build 261.x)。
 
 ---
 
@@ -66,4 +66,4 @@ The generated plugin `.zip` will be located in `build/distributions/`.
 
 ### Compatibility
 - Supports IntelliJ Platform 231 (2023.1) and later.
-- Tested on PyCharm 2025.2 EAP (Build 252.x).
+- Compatible with PyCharm 2026.1.x (Build 261.x).

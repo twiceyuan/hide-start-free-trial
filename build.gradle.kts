@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "io.github.twiceyuan"
-version = "1.0.1"
+version = "1.0.2"
 
 repositories {
     mavenCentral()
@@ -31,7 +31,7 @@ tasks {
 
     patchPluginXml {
         sinceBuild.set("231")
-        untilBuild.set("255.*")
+        untilBuild.set("261.*")
     }
 
     signPlugin {
